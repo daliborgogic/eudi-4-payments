@@ -3,3 +3,7 @@
 
 This is the repository for eudi-4-payments. You're welcome to contribute! Let's make the Web rock our socks
 off!
+
+Cuurently this repository only contains proposals.
+
+[e-receipts](proposals/e-receipts/)
