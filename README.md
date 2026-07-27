@@ -1,7 +1,8 @@
 
 # Specification 'eudi-4-payments'
 
-This is the repository for eudi-4-payments. You're welcome to contribute! Let's make the Web rock our socks off!
+This is the repository for the [eudi-4-payments](https://www.w3.org/community/eudi-4-payments/)
+community group. You're welcome to contribute! Let's make the Web rock our socks off!
 
 Cuurently this repository only contains _proposals_.
 
