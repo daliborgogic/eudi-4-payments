@@ -6,5 +6,5 @@ This is the repository for eudi-4-payments. You're welcome to contribute! Let's 
 Cuurently this repository only contains _proposals_.
 
 Note that proposals may also be provided as _links_ to other repositories (GitHub or other).
-- [Wallet Architecture](proposals/architecture/)
+- [Wallet Architecture](proposals/wallet-architecture/)
 - [e-Receipts](proposals/e-receipts/)
