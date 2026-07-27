@@ -1,1 +1,1 @@
-### In this repo you will find proposals for e-receipt solutions
+### In this repo you will find e-receipt proposals
